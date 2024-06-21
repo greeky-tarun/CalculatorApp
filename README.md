@@ -7,7 +7,7 @@ Welcome to the Calculator App! 🎉 This app provides a user-friendly interface 
 ## Screenshots
 |                Calculator               |
 :------------------------------------------------:
-![Calculator App Screenshot]([images/calculator_app_screenshot.png](https://drive.google.com/file/d/1adsTSB93zu_kyCkrYjJUc_JynJTpMQRJ/view?usp=sharing)) |
+![Calculator App Screenshot](https://drive.google.com/uc?id=1adsTSB93zu_kyCkrYjJUc_JynJTpMQRJ) |
 
 ### Key Features:
 - **Basic Arithmetic Operations**: Addition `➕`, Subtraction `➖`, Multiplication `✖️`, Division `➗`.
